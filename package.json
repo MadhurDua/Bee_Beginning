@@ -1,0 +1,16 @@
+{
+  "name": "bee_beginning",
+  "version": "1.0.0",
+  "description": "start from beginning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Madhur dua",
+  "license": "ISC"
+}
